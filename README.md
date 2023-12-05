@@ -55,7 +55,7 @@ ex: ``$ node App.js``
 
 ## Task analysis, Heuristics Evaluation, and Screenshots:
 
-Link: https://www.canva.com/design/DAFrQZqkeDQ/vlZBbYRcpSJmcvME4pKQow/edit?utm_content=DAFrQZqkeDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<a href="https://www.canva.com/design/DAFrQZqkeDQ/vlZBbYRcpSJmcvME4pKQow/edit?utm_content=DAFrQZqkeDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to Report</a>
 
 ## Technology Stack
 
