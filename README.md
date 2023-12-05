@@ -1,3 +1,7 @@
+# Link to Report
+
+<a href="https://www.canva.com/design/DAFrQZqkeDQ/vlZBbYRcpSJmcvME4pKQow/edit?utm_content=DAFrQZqkeDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link</a>
+
 # Beareats
 
 Welcome to Beareats, your go-to platform for making dieting social and engaging! This application is designed to create a vibrant community of health-conscious individuals who want to share, explore, and improve their dietary habits while connecting with fellow UC Berkeley students. This is a front-end project, there is no back-end for this project. 
@@ -52,10 +56,6 @@ ex: ``$ node App.js``
 3. Explore the feed, view meal posts, and engage with the community.
 4. Share your own meals, view nutritional information, and connect with friends.
 5. Note: we ask you to use our app in this flow: Login -> Scroll through the hub -> click on "Amy's post" -> interact w the post (comment, like, share) -> click go to Instacart -> interact w page (add ingredients) -> go back to the hub -> make a new post (on sidebar) -> drag and drop picture add comments -> go back to hub -> new post has been created -> go to profile link -> check out rewards and interact.
-
-## Task analysis, Heuristics Evaluation, and Screenshots:
-
-<a href="https://www.canva.com/design/DAFrQZqkeDQ/vlZBbYRcpSJmcvME4pKQow/edit?utm_content=DAFrQZqkeDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link to Report</a>
 
 ## Technology Stack
 
